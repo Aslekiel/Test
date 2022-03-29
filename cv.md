@@ -72,3 +72,13 @@ function tribonacci(signature,n){
     }
     return signature.concat(arr);
 }
+
+Education
+1. Southern Federal University, Institute of Radio Engineering Systems and Control: Technical operation and repair of aircraft and engines.
+2. Southern Federal University, Institute of Management in Economic, Ecological and Social Systems: Jurisprudence.
+3. Southern Federal University, Institute of Nanotechnologies, Electronics and Equipment Engineering: Biotechnical systems and technologies
+
+Courses:
+1. learn.javascript.ru;
+2. code.mu;
+3. JavaScript/Front-end 2022Q1.
