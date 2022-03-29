@@ -82,3 +82,7 @@ Courses:
 1. learn.javascript.ru;
 2. code.mu;
 3. JavaScript/Front-end 2022Q1.
+
+Languages:
+Russian - Native;
+English - B1;
