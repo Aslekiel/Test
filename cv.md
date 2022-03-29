@@ -1,30 +1,35 @@
+# Evgeny Zavetny
 
-
-Evgeny Zavetny
-
-Contact information:
-Location: Taganrog, Russia
-Phone: +7 9873317684
-E-mail: zyzyololozyzy@gmail.com
-Telegram: @Aslekiel
-Discord: 
-GitHub: Aslekiel
+## Contact information:
+Location: Taganrog, Russia.
+Phone: +7(987)3317684.
+E-mail: zyzyololozyzy@gmail.com.
+Telegram: @Aslekiel.
+Discord: Hopheylalaley#8852.
+GitHub: Aslekiel.
 Codewars: https://www.codewars.com/users/AsleKiel12
 
-About Me
+*********
+
+## About Me
 
 Greetings! I decided to radically change the direction of my activity, since I believe that only in programming I am able to realize myself in it 100%. I have experience in managing people, stress-resistant, determined, attentive, able to learn. I spend my free time improving my skills.
 
-Skills and Proficiency:
+*********
+
+## Skills and Proficiency:
 HTML5, CSS3;
 JavaScript Basics;
 Git, GitHub;
 VS Code.
 
-Code example:
+*********
+
+## Code example:
+
 KATA from CODEWARS: Write an algorithm that takes an array and moves all of the zeros to the end, preserving the order of the other elements.
 
-function moveZeros(arr) {
+```function moveZeros(arr) {
     let count = 0;
     let result = [];
 
@@ -45,11 +50,11 @@ function moveZeros(arr) {
     }
 
     return result;
-}
+}```
 
 KATA from CODEWARS: Well met with Fibonacci bigger brother, AKA Tribonacci. As the name may already reveal, it works basically like a Fibonacci, but summing the last 3 (instead of 2) numbers of the sequence to generate the next.
 
-function tribonacci(signature,n){
+```function tribonacci(signature,n){
     let oneNum = signature[0];
     let twoNum = signature[1];
     let threeNum = signature[2];
@@ -71,18 +76,22 @@ function tribonacci(signature,n){
         arr.push(sum);
     }
     return signature.concat(arr);
-}
+}```
 
-Education
+*********
+
+## Education:
 1. Southern Federal University, Institute of Radio Engineering Systems and Control: Technical operation and repair of aircraft and engines.
 2. Southern Federal University, Institute of Management in Economic, Ecological and Social Systems: Jurisprudence.
 3. Southern Federal University, Institute of Nanotechnologies, Electronics and Equipment Engineering: Biotechnical systems and technologies
 
-Courses:
+## Courses:
 1. learn.javascript.ru;
 2. code.mu;
 3. JavaScript/Front-end 2022Q1.
 
-Languages:
+*********
+
+## Languages:
 Russian - Native;
 English - B1;
