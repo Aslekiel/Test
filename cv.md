@@ -1,9 +1,6 @@
 # Evgeny Zavetny
-
 ## Contact information:
-
 *********
-
 Location: Taganrog, Russia.    
 Phone: +7(987)3317684.    
 E-mail: zyzyololozyzy@gmail.com.    
