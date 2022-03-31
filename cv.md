@@ -1,6 +1,6 @@
 # Evgeny Zavetny
 ## Contact information:
-*********
+
 Location: Taganrog, Russia;    
 Phone: +7(987)3317684;    
 E-mail: zyzyololozyzy@gmail.com;    
@@ -8,6 +8,8 @@ Telegram: https://t.me/Aslekiel;
 Discord: https://discordapp.com/users/Hopheylalaley#8852;    
 GitHub: Aslekiel;   
 Codewars: https://www.codewars.com/users/AsleKiel12    
+
+*********
 
 ## About Me
 
