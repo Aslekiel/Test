@@ -3,11 +3,11 @@
 
 Location: Taganrog, Russia;    
 Phone: +7(987)3317684;    
-[zyzyololozyzy@gmail.com](E-mail);    
-[https://t.me/Aslekiel](Telegram);   
-[https://discordapp.com/users/Hopheylalaley#8852](Discord);    
-[https://github.com/Aslekiel](GitHub);   
-[https://www.codewars.com/users/AsleKiel12](Codewars).    
+E-mail: [zyzyololozyzy@gmail.com];    
+Telegram: [https://t.me/Aslekiel];   
+Discord: [https://discordapp.com/users/Hopheylalaley#8852];    
+GitHub: [https://github.com/Aslekiel];   
+Codewars: [https://www.codewars.com/users/AsleKiel12].    
 
 *********
 
